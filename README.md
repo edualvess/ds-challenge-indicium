@@ -639,7 +639,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](/data/output_28_0.png)
     
 
 
@@ -776,7 +776,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](/data/output_33_0.png)
     
 
 
@@ -794,31 +794,31 @@ for col in numerical:
 
 
     
-![png](output_35_0.png)
+![png](/data/output_35_0.png)
     
 
 
 
     
-![png](output_35_1.png)
+![png](/data/output_35_1.png)
     
 
 
 
     
-![png](output_35_2.png)
+![png](/data/output_35_2.png)
     
 
 
 
     
-![png](output_35_3.png)
+![png](/data/output_35_3.png)
     
 
 
 
     
-![png](output_35_4.png)
+![png](/data/output_35_4.png)
     
 
 
@@ -839,7 +839,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](/data/output_37_0.png)
     
 
 
@@ -857,7 +857,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](/data/output_39_0.png)
     
 
 
@@ -877,7 +877,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](/data/output_41_0.png)
     
 
 
@@ -896,7 +896,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](/data/output_43_0.png)
     
 
 
@@ -1177,7 +1177,7 @@ plot_roc_curve(fper, tper)
 
 
     
-![png](output_68_0.png)
+![png](/data/output_68_0.png)
     
 
 
@@ -1247,7 +1247,7 @@ plot_roc_curve(fper, tper)
 
 
     
-![png](output_77_0.png)
+![png](/data/output_77_0.png)
     
 
 
