@@ -492,7 +492,7 @@ for i, col in enumerate(missing_values_cols):
 
 
     
-![png](output_18_0.png)
+![png](/data/output_18_0.png)
     
 
 
@@ -599,7 +599,7 @@ for i, col in enumerate(missing_values_cols):
 
 
     
-![png](output_24_0.png)
+![png](/data/output_24_0.png)
     
 
 
